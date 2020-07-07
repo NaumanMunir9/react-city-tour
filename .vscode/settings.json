@@ -1,0 +1,68 @@
+{
+    "workbench.statusBar.visible": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.accessibilityPageSize": 15,
+    "cSpell.userWords": [
+        "Nauman",
+        "dom",
+        "munir",
+        "react",
+        "react dom"
+    ],
+    "window.zoomLevel": 1,
+    "editor.tabCompletion": "on",
+    "editor.stablePeek": true,
+    "editor.tabSize": 2,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.colorTheme": "Dracula",
+    "oneDarkPro.italic": false,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "workbench.colorCustomizations": {
+        "[Night Owl]": {
+            "activityBar.background": "#000C1D",
+            "activityBar.border": "#102a44",
+            "sideBar.background": "#001122",
+            "sideBar.border": "#102a44",
+            "sideBar.foreground": "#8BADC1"
+        },
+        "[Night Owl No Italics]": {
+            "activityBar.background": "#000C1D",
+            "activityBar.border": "#102a44",
+            "sideBar.background": "#001122",
+            "sideBar.border": "#102a44",
+            "sideBar.foreground": "#8BADC1"
+        }
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.renameOnType": true,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.linux": "/home/mnm/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vs-kubernetes.helm-path.linux": "/home/mnm/.vs-kubernetes/tools/helm/linux-amd64/helm"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.formatOnType": true,
+    "editor.mouseWheelZoom": true,
+    "typescript.preferences.quoteStyle": "double",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "workbench.activityBar.visible": true,
+}
